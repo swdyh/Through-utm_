@@ -1,0 +1,11 @@
+{
+  "id": "through_utm_@relucks.org",
+  "description": "Through utm_xxx parameters.",
+  "author": "swdyh (http://www.relucks.org/)",
+  "version": "0.0.3",
+  "license": "MIT",
+  "fullName": "Through utm_",
+  "name": "through_utm_",
+  "updateURL": "https://relucks-org.appspot.com/through_utm_/through_utm_.update.rdf",
+  "updateLink": "https://relucks-org.appspot.com/through_utm_/through_utm_.xpi"
+}

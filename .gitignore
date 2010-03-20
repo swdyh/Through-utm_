@@ -1,0 +1,4 @@
+*.xpi
+*.rdf
+dep.sh
+.DS_Store
